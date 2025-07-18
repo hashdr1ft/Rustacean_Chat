@@ -1,4 +1,7 @@
 
+<img width="978" height="920" alt="Screenshot 2025-07-18 at 11 57 11 AM" src="https://github.com/user-attachments/assets/1a771d95-dd30-4312-8dfa-90a1d872c982" />
+
+
 
 # RustaceanChat Webapp
 A simple webapp to showcase the ability to write a simple chatbot webapp using only Rust, TailwindCSS and an Open Source language model such as a variant of GPT, LLaMA, etc.
